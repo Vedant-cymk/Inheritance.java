@@ -20,3 +20,5 @@ This repository contains Java programs based on Object-Oriented Programming conc
 
 ## Purpose
 To develop practical programming skills and understand Java OOP concepts using GitHub.
+## Collaboration
+This project uses GitHub branches and pull requests for collaborative development.
